@@ -7,17 +7,17 @@
  - Front-end(Javascript/react.js)
  - Mobile (React native - android e IOS).
 
-  Durante os estudos em bootcamps e prática no trabalho, aprendi mais:
+  Durante os **estudos e prática no trabalho**, aprendi mais:
   - Testes unitários, Testes End-to-end
   - API Rest
     
-   E na minha atuação na empresa, aprendi sobre:
+   E, durante minha estadia na empresa* aprendi sobre:
   - Banco de Dados relacionais(PostgreSQL)
   - Docker
   - Big Data
   - Google Cloud
 
-Para além do mundo da Tecnologia, sou formada em Relações Públicas e tenho mais de 15 anos de experiência em comunicação.
+Para além do mundo da Tecnologia, sou formada em Relações Públicas e tenho mais de 15 anos de experiência na área.
   
 ## Estudos 📖:
  Atualmente tenho estudado também  **Python** e **AWS** para ampliar meu conhecimento em back-end, com foco em:

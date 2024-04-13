@@ -40,7 +40,7 @@ Clean Code|
   **Líder Técnica do Projeto Conectadas, voltado para adolescentes.**
 
   - Meu projeto final da reprograma, o *Tech Ancestral*, foi divulgado na *newsletter do Grupo de Estudos em Filosofia e História da Técnica da 
-   UNICAMP e na revista eletrônica Desvelar*(https://gtec.substack.com/p/gtec-newsletter-2611.
+   UNICAMP e na revista eletrônica Desvelar*. Saiba mais em: https://gtec.substack.com/p/gtec-newsletter-2611
 
   - Na transição de carreira criei minha empresa, na qual eu presto serviços de comunicação e tecnologia.
   

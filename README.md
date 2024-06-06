@@ -11,17 +11,20 @@
   - Testes unitários, Testes End-to-end
   - API Rest
     
-   E, durante minha estadia na empresa* aprendi sobre:
+   E, durante minha estadia na Genial Care aprendi sobre:
   - Banco de Dados relacionais(PostgreSQL)
   - Docker
   - Big Data
   - Google Cloud
 
-Para além do mundo da Tecnologia, sou formada em Relações Públicas e tenho mais de 15 anos de experiência na área.
-  
+Recentemente atuei com desenvolvimento low code (Budibase) e open source (NocoDB) com consumo de Rest API (NocoDB e IBGE) para a criação de formulários de cadastro da ÉNois Tecnologia, com embed em iframe do Wordpress, usando query params. 
+Estou em um projeto internacional da empresa Outlier, que atua na área de desenvolvimento de software, trabalhando como Ai Trainer.
+
 ## Estudos 📖:
- Atualmente tenho estudado também  **Python** e **AWS** para ampliar meu conhecimento em back-end, com foco em:
-Principais conceitos | 
+
+ Atualmente estudo  **Python** e **AWS** para ampliar meu conhecimento em back-end e cloud.
+
+Principais conceitos já estudados| 
 -----|
 CRUD|
 MVC|
@@ -31,6 +34,8 @@ TDD|
 SOLID|
 Clean Code|
 
+Para além do mundo da Tecnologia, sou formada em Relações Públicas e tenho mais de 15 anos de experiência na área.
+  
 ## Soft Skills 🌱: 
  Com minha experiência em comunicação, sou uma profissional com muitas soft skills em **organização, planejamento, escuta ativa, criatividade e muito trabalho em equipe**. 
  Com o estudo em tecnologia, desenvolvi mais meu **raciocio lógico, tendo facilidade de ler e identificar padrões**.

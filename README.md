@@ -1,10 +1,10 @@
 # Hello, world! 👋
 ## Quem sou eu 🔭 :
- *Sou Desenvolvedora de software*, tendo iniciado minha carreira em 2021, com estudos em Bootcamps, com minha primeira experiência
+ *Sou Desenvolvedora de software*, graduanda em Licenciatura em Computação na UTFPR, tendo iniciado minha carreira em 2021, com estudos em Bootcamps, com minha primeira experiência
    na área em em 2022. 
-   Minhas experiências em programação passa por: 
+   Minhas experiências em programação passam por: 
  - Back-end (Ruby on rails e Node.js)
- - Front-end(Javascript/react.js)
+ - Front-end(Javascript/React.js)
  - Mobile (React native - android e IOS).
 
   Durante os **estudos e prática no trabalho**, aprendi mais:
@@ -14,7 +14,6 @@
    E, durante minha estadia na Genial Care aprendi sobre:
   - Banco de Dados relacionais(PostgreSQL)
   - Docker
-  - Big Data
   - Google Cloud
 
 Recentemente atuei com desenvolvimento low code (Budibase) e open source (NocoDB) com consumo de Rest API (NocoDB e IBGE) para a criação de formulários de cadastro da ÉNois Tecnologia, com embed em iframe do Wordpress, usando query params. 
@@ -47,7 +46,7 @@ Para além do mundo da Tecnologia, sou formada em Relações Públicas e tenho m
   - Meu projeto final da reprograma, o *Tech Ancestral*, foi divulgado na *newsletter do Grupo de Estudos em Filosofia e História da Técnica da 
    UNICAMP e na revista eletrônica Desvelar*. Saiba mais em: https://gtec.substack.com/p/gtec-newsletter-2611
 
-  - Na transição de carreira criei minha empresa, na qual eu presto serviços de comunicação e tecnologia.
+  - Na transição de carreira criei minha empresa, a AmaraComTech, na qual eu presto serviços de comunicação e tecnologia.
   
 ### Meus contatos 📫:
   

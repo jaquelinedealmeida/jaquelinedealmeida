@@ -1,28 +1,29 @@
 # Hello, world! 👋
 ## Quem sou eu 🔭 :
- *Sou Desenvolvedora de software*, graduanda em Licenciatura em Computação na UTFPR, tendo iniciado minha carreira em 2021, com estudos em Bootcamps, com minha primeira experiência
-   na área em em 2022. 
+ *Sou Desenvolvedora de software*, graduanda em Licenciatura em Computação na UTFPR e pós-graduanda em Engenharia de Software na USP, tendo iniciado minha carreira em 2021, com estudos em Bootcamps, com minha primeira experiência na área em em 2022. 
    Minhas experiências em programação passam por: 
- - Back-end (Ruby on rails e Node.js)
+ - Back-end (Ruby on rails,Node.js e Python)
  - Front-end(Javascript/React.js)
- - Mobile (React native - android e IOS).
+ - Mobile (React native - android e IOS e Typescript).
 
-  Durante os **estudos e prática no trabalho**, aprendi mais:
+  Durante os **estudos**, aprendi mais:
   - Testes unitários, Testes End-to-end
   - API Rest
+  - Cloud AWS
+  - Banco de dados não relacionais (Mongo DB)
     
-   E, durante minha estadia na Genial Care aprendi sobre:
+   Nas minhas experiências no trabalho:
   - Banco de Dados relacionais(PostgreSQL)
-  - Docker
+  - Docker, Kubernets
   - Google Cloud
+  - Wordpress
 
-Recentemente atuei com desenvolvimento low code (Budibase) e open source (NocoDB) com consumo de Rest API (NocoDB e IBGE) para a criação de formulários de cadastro da ÉNois Tecnologia, com embed em iframe do Wordpress, usando query params. 
-Estou em um projeto internacional da empresa Outlier, que atua na área de desenvolvimento de software, trabalhando como Ai Trainer.
+
+Estou em um projeto internacional da empresa Outlier, que atua na área de desenvolvimento de software, trabalhando como AI Trainer
 
 ## Estudos 📖:
 
- Atualmente estudo  **Python** e **AWS** para ampliar meu conhecimento em back-end e cloud.
-
+Para além dos estudos na faculdade e pós-graduação, estou dando mais base ao meu conhecimento com estudos de *Estrutura de Dados*.
 Principais conceitos já estudados| 
 -----|
 CRUD|

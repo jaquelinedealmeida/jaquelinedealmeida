@@ -1,6 +1,6 @@
 # Hello, world! 👋
 ## Quem sou eu 🔭 :
- *Sou Desenvolvedora de software*, graduanda em Licenciatura em Computação na UTFPR e pós-graduanda em Engenharia de Software na USP, tendo iniciado minha carreira em 2021, com estudos em Bootcamps, com minha primeira experiência na área em em 2022. 
+ *Sou Desenvolvedora de software*, pós-graduanda em Engenharia de Software na USP, tendo iniciado minha carreira em 2021, com estudos em Bootcamps, com minha primeira experiência na área em em 2022. 
    Minhas experiências em programação passam por: 
  - Back-end (Ruby on rails,Node.js e Python)
  - Front-end(Javascript/React.js)
@@ -17,9 +17,6 @@
   - Docker, Kubernets
   - Google Cloud
   - Wordpress
-
-
-Estou em um projeto internacional da empresa Outlier, que atua na área de desenvolvimento de software, trabalhando como AI Trainer
 
 ## Estudos 📖:
 
@@ -42,7 +39,7 @@ Para além do mundo da Tecnologia, sou formada em Relações Públicas e tenho m
     
 ## Curiosidade sobre mim 💡:
    - Atuei como professora dos **projetos Todas em Tech e Elas em Tech, da reprograma, dando aulas  de HTML e CSS em 2021 e 2022**; além de ter sido 
-  **Líder Técnica do Projeto Conectadas, voltado para adolescentes.**
+  **Líder Técnica do Projeto Conectadas, voltado para adolescentes. Atualmente faço parte da Comunidade PretaLab, atuando como monitora e professora**
 
   - Meu projeto final da reprograma, o *Tech Ancestral*, foi divulgado na *newsletter do Grupo de Estudos em Filosofia e História da Técnica da 
    UNICAMP e na revista eletrônica Desvelar*. Saiba mais em: https://gtec.substack.com/p/gtec-newsletter-2611

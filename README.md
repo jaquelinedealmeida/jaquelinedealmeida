@@ -1,29 +1,26 @@
 # Hello, world! 👋
 ## Quem sou eu 🔭 :
- *Sou Desenvolvedora de software*, pós-graduanda em Engenharia de Software na USP, tendo iniciado minha carreira em 2021, com estudos em Bootcamps, com minha primeira experiência na área em em 2022. 
+ *Sou Desenvolvedora de software* há 3 ano, pós-graduanda em Engenharia de Software na USP.
    Minhas experiências em programação passam por: 
  - Back-end (Ruby on rails,Node.js e Python)
- - Front-end(Javascript/React.js)
- - Mobile (React native - android e IOS e Typescript).
+ - Front-end(Javascript/Typscript, React.js)
+ - Mobile (React native - android e IOS).
 
-  Durante os **estudos**, aprendi mais:
-  - Testes unitários, Testes End-to-end
+ Tenho conhecimento e **estudos** em: 
+  - Testes unitários, Testes de Integração; Testes End-to-end
   - API Rest
+  - Banco de dados relacionais (PostgreSQL) e não relacionais (Mongo DB)
   - Cloud AWS
-  - Banco de dados não relacionais (Mongo DB)
-    
-   Nas minhas experiências no trabalho:
-  - Banco de Dados relacionais(PostgreSQL)
-  - Docker, Kubernets
-  - Google Cloud
-  - Wordpress
+  - Docker 
+  - Ferramentas lowcode (Appsmith, Wordpres, Budibase, NocoDB)
 
 ## Estudos 📖:
 
-Para além dos estudos na faculdade e pós-graduação, estou dando mais base ao meu conhecimento com estudos de *Estrutura de Dados*.
 Principais conceitos já estudados| 
 -----|
 CRUD|
+Estrutura de dados|
+Arquitetura Limpa|
 MVC|
 POO|
 DDD|
